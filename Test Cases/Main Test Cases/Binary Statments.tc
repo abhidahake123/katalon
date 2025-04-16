@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Login</name>
+   <name>Binary Statments</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>eaf3eff7-7919-4c6d-9e2b-abc707f87587</testCaseGuid>
+   <testCaseGuid>ec84710e-57a1-4831-9dd5-dab70013c6d1</testCaseGuid>
 </TestCaseEntity>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Login</name>
+   <name>Switch Case</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>eaf3eff7-7919-4c6d-9e2b-abc707f87587</testCaseGuid>
+   <testCaseGuid>7d6dd373-9a80-42d3-9cc3-431a97d5e8cc</testCaseGuid>
 </TestCaseEntity>

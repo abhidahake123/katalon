@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Login</name>
+   <name>Manual View</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>eaf3eff7-7919-4c6d-9e2b-abc707f87587</testCaseGuid>
+   <testCaseGuid>6e0717b7-cd8f-4dfd-8d4a-9070033e3be9</testCaseGuid>
 </TestCaseEntity>

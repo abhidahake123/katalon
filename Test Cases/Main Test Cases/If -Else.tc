@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Login</name>
+   <name>If -Else</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>eaf3eff7-7919-4c6d-9e2b-abc707f87587</testCaseGuid>
+   <testCaseGuid>fa49a68b-d725-4ffb-b23d-52e0c0684d4a</testCaseGuid>
 </TestCaseEntity>
